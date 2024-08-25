@@ -6,15 +6,9 @@ Update suppression helper mod. This mod is useful in technical Minecraft. If you
 shouldn't be using it.
 
 How to compile:
-- Download zip
-- extract zip to folder
-- go to the subfolder
-- shift-right-click
-- click Open Powershell Window here
-- run ./gradlew build
-- move the .jar in ./build/libs (not sources) to your mods folder
-- install the latest betterconfig
-- run minecraft
+- Download latest release
+- put in mods folder
+- download latest betterconfig
 - done!
 
 Current features include:
