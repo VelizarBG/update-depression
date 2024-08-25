@@ -18,3 +18,6 @@ Current features include:
 
 Planned features include:
 - Options to reintroduce patched update suppression bugs.
+
+Credits:
+- necro0727 on discord (he did most of the work)
