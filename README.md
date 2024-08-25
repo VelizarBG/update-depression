@@ -13,6 +13,7 @@ How to compile:
 
 Current features include:
 - A command to place a CCE boxes.
+- A command to place a Sound Suppressor (note: place the lectern first than use the command while standing next to the comparator facing twards the lectern and use ~ ~ ~ as the coords otherwise you will brick the world)
 - Update suppression crash fix.
 
 Planned features include:
