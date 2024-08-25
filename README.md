@@ -20,4 +20,4 @@ Planned features include:
 - Options to reintroduce patched update suppression bugs.
 
 Credits:
-- necro0727 A lot (changed 2 properties in gradle.properties)
+- [necro0727](https://github.com/ZaddikDev) A lot (changed 2 properties in gradle.properties)
